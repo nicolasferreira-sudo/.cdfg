@@ -1,6 +1,15 @@
 
-.celda{
-	text-align: right; background-color: #000000;
+body{
+	color: #ffffff;
+	background-image: url("descarga 7.jpg");
+	background-size: 110%;
+	background-repeat: no-repeat;
+}
+
+.Menu{
+	text-align: right;
+	background-color: #000000;
+	padding-right: 10px;
 }
 
 .tabla2{
@@ -8,9 +17,6 @@
 
 ul{
 	list-style-type: none;
-}
-
-.list1{
 }
 
 .text1{
@@ -29,10 +35,7 @@ ul{
 	margin-right: center;
 }
 
-h2{
-	color: #ffffff;
-}
--++
+
 
 
 
